@@ -1,14 +1,26 @@
 {
-  "name": "bashbaby",
-  "version": "1.0.0",
-  "description": "discord delete all bot",
+  "name": "discord-delete",
+  "version": "1.1.1",
+  "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "MayheM#1358",
-  "license": "ISC",
   "dependencies": {
     "discord.js": "^12.2.0"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "Hello World"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayhemxlll/Discord-Delete.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "MayheM#1358",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayhemxlll/Discord-Delete/issues"
+  },
+  "homepage": "https://github.com/mayhemxlll/Discord-Delete#readme"
 }
